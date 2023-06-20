@@ -1,4 +1,4 @@
 # Todo-List-
 Todo-List App by react
-#link:[[todo-list-app00.netlify.app](https://todo-list-app00.netlify.app/)](https://todo-list-app00.netlify.app/)
+#link:https://todo-list-app00.netlify.app/
 
